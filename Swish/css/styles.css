@@ -1,0 +1,55 @@
+/*Adam McKinlay -- April 10, 2019*/
+body{
+    background-image: url("https://img.edilportale.com/product-thumbs/b_Worn-Wood-Opaque-Artesive-264438-reld5f7ffd9.jpg");
+}
+
+ul{
+   margin: 0;
+   padding: 0;
+   padding-top: 1em;
+   background-color: #ffffff;
+}
+
+#menu_nav li{
+    display: inline-block;
+    padding-right: 1em;
+}
+
+#home_banner img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1287.296875px;
+    height: 735.140625px;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    padding-bottom: 0;
+    border: 0.6em solid beige;
+}
+
+#footer ul li{
+    display: inline;
+    color: white;
+    padding: 0.5em;
+}
+
+#footer ul{
+    background-color: black;
+    text-align: center;
+    padding-bottom: 1em;
+}
+
+#footer{
+    width: 100%;
+    overflow: hidden;
+}
+
+#footer ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+#footer ul li a:hover{
+    color: #cc1c0d;
+}
+

@@ -1,0 +1,125 @@
+/*Adam McKinlay -- April 10, 2019*/
+
+div{
+    padding: 2em;
+}
+
+#opening, #brands, #brands ul{
+    background-color: antiquewhite;
+    border-bottom: solid .2em;
+    border-top: solid .2em;
+}
+
+#Featured_Openers h1{
+    text-align: center;
+}
+
+.canopener_img{
+    height: 285px;
+    width: 285px;
+    margin: 0;
+}
+
+.mRow{
+    margin: 0;
+}
+
+.mCol{
+    display: inline-block;
+    padding: 1em;
+    margin: 0;
+}
+
+.mCol img{
+    border-top: solid darkolivegreen 0.4em;
+    border-left: solid darkolivegreen 0.4em;
+    border-right: solid darkolivegreen 0.4em;
+}
+
+.mCol ul{
+    border-left: solid darkolivegreen 0.4em;
+    border-right: solid darkolivegreen 0.4em;
+    border-bottom: solid darkolivegreen 0.4em;
+}
+
+.mCol ul li a img{
+    border: none;
+}
+
+button{
+    border-radius: 0.4em;
+    border-style: none;
+    margin-top: 1.5em;
+    font-size: 1.4em;
+    color: white;
+    border-color: green;
+    background-color: green;
+    height: 2.2em;
+    width: 4em;
+    opacity: .75;
+}
+
+ul{
+   margin: 0;
+   padding: 0;
+   padding-top: 1em;
+}
+
+li img{
+    width: 60px;
+    height: 60px;
+}
+
+#Featured_Openers li{
+    display: inline;
+}
+
+#Popular_Openers h1{
+    text-align: center;
+}
+
+#Popular_Openers li{
+    display: inline;
+}
+
+#brands ul{
+    text-align: center;
+    padding-top: 0;
+    border: none;
+}
+
+#brands li{
+    list-style: none;
+    padding: 3em;
+}
+
+#brands h2{
+    text-align: center;
+}
+
+#brands ul li{
+    display: inline-block;
+}
+
+#brands img{
+    height: 200px;
+    width: 200px;
+}
+
+#kenmore img{
+    height: 90px;
+}
+
+#proctorsilex img{
+    width: 240px;
+}
+
+#blackAndDecker img{
+    width: 200px;
+    height: 85px;
+}
+
+#cuisinart img{
+    width: 180px;
+    height: 45px;
+}

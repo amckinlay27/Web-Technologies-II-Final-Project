@@ -1,0 +1,32 @@
+/*Adam McKinlay -- April 10, 2019*/
+
+#imagesGal{
+    display: inline-block;
+}
+
+#searchBar{
+    text-align: center;
+    padding-top: 3em;
+    padding-bottom: 2em;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+#imagesGal{
+    background-color: antiquewhite;
+    border-bottom: solid .2em;
+    border-top: solid .2em;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+#imagesGal img{
+    margin: 10px;
+    width: 250px;
+    height: 200px;
+}
+
+#footer{
+    bottom: 0;
+    position: fixed;
+}

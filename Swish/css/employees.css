@@ -1,0 +1,51 @@
+/*Adam McKinlay -- April 10, 2019*/
+
+div{
+    display: none;
+}
+
+#employees, #empList{
+    display: inline;
+}
+
+#empList ul{
+    list-style: none;
+    background: none;
+    display: inline-block;
+}
+
+#empList li{
+    list-style: none;
+    display: inline-block;
+}
+
+#empList h3{
+    width: fit-content;
+    display: inline;
+    margin-left: 1.5em;
+}
+
+#empList h3 a{
+    color: black;
+    list-style: none;
+}
+
+#empList p{
+    margin: 0;
+    margin-left: 2.7em;
+}
+
+#announcement{
+    font-weight: bold;
+}
+
+#announcement, #weAre{
+    padding: 1em;
+    font-size: 1.2em;
+}
+
+#weAre{
+    background-color: antiquewhite;
+    border-bottom: solid .2em;
+    border-top: solid .2em;
+}
